@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Howdy 👋, I'm Richard</h1>
 <h3 align="center">I'm a Cloud Architect and Rust Developer with a passion for innovation!</h3>
 
-- 🌱 I’m currently working at CrowdStrike
+- 🌱 I’m currently working at CrowdStrike as a Cyber Security Architect.
 
-- 📫 You can checkout my online resume at [mausrd.io](https://mausrd.io/)
+- 📫 You can checkout my online resume at [mausrd.io](https://mausrd.io/).
 
-- ⚡ Fun fact: I love to read and read every day!
+- ⚡ Fun fact: I love to read and read every day.
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mausrd&show_icons=true&locale=en" alt="mausrd" /></p>
