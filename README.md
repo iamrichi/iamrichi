@@ -6,23 +6,10 @@
 
 ---
 
-### 🌟 About Me
-
-I live in **Austin** and wear many hats:
-- 👨‍👩‍👧‍👦 Husband
-- 👨‍👧 Father
-- 💻 Developer
-- 🪖 Marine
-- 🌌 Stargazer
-- 🏞️ Wanderer
-- 🌲 Environmentalist
-
----
-
 ### 💼 Professional Life
 
-- 🌱 I’m currently working at **CrowdStrike** as a Senior Engineer.
-- 📫 You can check out my online resume at [mausrd.io](https://mausrd.io/).
+- I’m currently working at **CrowdStrike** as a Senior Engineer.
+- You can check out my online resume at [mausrd.io](https://mausrd.io/).
 
 ---
 
