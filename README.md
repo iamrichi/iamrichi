@@ -5,17 +5,23 @@
 </div>
 
 ---
+### 🌟 About Me
+
+I live in **Austin** and wear many hats:
+- 👨‍👩‍👧‍👦 Husband
+- 👨‍👧 Father
+- 💻 Developer
+- 🪖 Marine
+- 🌌 Stargazer
+- 🏞️ Wanderer
+- 🌲 Environmentalist
+
+---
 
 ### 💼 Professional Life
 
 - I’m currently working at **CrowdStrike** as a Senior Engineer.
 - You can check out my online resume at [mausrd.io](https://mausrd.io/).
-
----
-
-### ⚡ Fun Fact
-
-- I love to read and make it a point to read every day.
 
 ---
 
@@ -27,8 +33,8 @@
 
 ### 📱 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mausrd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mausrd.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mausrd)
 ![Discord](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1230943015682576497?simple=true)
 ![Playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1230943015682576497)
 ![VSCode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1230943015682576497)
