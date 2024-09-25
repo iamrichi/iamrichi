@@ -21,7 +21,6 @@ I live in **Austin** and wear many hats:
 ### 💼 Professional Life
 
 - I’m currently working at **CrowdStrike** as a Senior Engineer.
-- You can check out my online resume at [mausrd.io](https://mausrd.io/).
 
 ---
 
