@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 👋, I'm Richard</h1>
+<h1 align="center">Howdy 👋, I Am Richie</h1>
 
 <div align="center">
   🦀 Rust Developer | 🌐 Cloud Architect | 🛠️ Mad Scientist  
@@ -10,11 +10,11 @@
 I live in **Austin** and wear many hats:
 - 👨‍👩‍👧‍👦 Husband
 - 👨‍👧 Father
-- 💻 Developer
+- 💻 Architect
 - 🪖 Marine
 - 🌌 Stargazer
 - 🏞️ Wanderer
-- 🌲 Environmentalist
+- 🌲 Pantophile
 
 ---
 
