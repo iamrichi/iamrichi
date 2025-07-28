@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 👋, I Am Richie</h1>
 
 <div align="center">
-  🦀 Rust Developer | 🌐 Cloud Architect | 🛠️ Mad Scientist  
+  🦀 Backend Developer | 🌐 Cloud Architect | 🛠️ Mad Scientist  
 </div>
 
 ---
@@ -20,7 +20,7 @@ I live in **Austin** and wear many hats:
 
 ### 💼 Professional Life
 
-- I’m currently working at **CrowdStrike** as a Senior Engineer.
+- I’m previously worked at **CrowdStrike** as a Senior Engineer.
 
 ---
 
